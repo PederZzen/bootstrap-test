@@ -1,0 +1,9 @@
+// Default variable overrides
+$body-bg: rgb(173, 173, 173);
+$body-color: rgb(59, 59, 59);
+$primary: teal;
+$secondary: rgb(165, 192, 165);
+
+//$success: lightgreen;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
